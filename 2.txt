@@ -1,7 +1,9 @@
 push 1
 push 2
+practice 2
 push 3
 push 4
 hello 1
 hellow 2
 hello 3
+parctice 2
